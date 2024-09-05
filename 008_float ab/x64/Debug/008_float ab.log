@@ -1,0 +1,4 @@
+﻿  008_float ab.cpp
+C:\Users\skgus\source\repos\practice2024\008_float ab\008_float ab.cpp(8,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\skgus\source\repos\practice2024\008_float ab\008_float ab.cpp(9,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  008_float ab.vcxproj -> C:\Users\skgus\source\repos\practice2024\x64\Debug\008_float ab.exe
